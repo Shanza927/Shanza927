@@ -1,13 +1,15 @@
-<h1 align="center">Hi there! 👋 I'm Shanza Amin</h1>
+<h1 align="center">Shanza Amin here 👋 </h1>
 
 <p align="center">
-  <strong>Senior Frontend Engineer</strong> | React, Next.js, TypeScript, TailwindCSS, AI Apps ⚡
+  <strong>Senior Frontend Engineer</strong> | React, Next.js, TypeScript, TailwindCSS, AI Apps
 </p>
 
+<!-- 
 <p align="center">
   <a href="https://github.com/shanzaamin"><img src="https://img.shields.io/github/followers/shanzaamin?label=Follow&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=flat-square"></a>
 </p>
+-->
 
 ---
 
