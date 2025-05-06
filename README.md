@@ -61,10 +61,41 @@
 
 ---
 
+### 📊 GitHub Metrics
+
+<details>
+<summary>Click to expand</summary>
+
+#### 🎯 Activity
+- 🔄 Commits: <!-- Replace with your actual number -->
+- 🔍 Pull requests reviewed: <!-- Replace with your actual number -->
+- 📝 Pull requests opened: <!-- Replace with your actual number -->
+- ⚠️ Issues opened: <!-- Replace with your actual number -->
+- 💬 Issue comments: <!-- Replace with your actual number -->
+
+#### 🌟 Community Stats
+- 📚 Repositories: <!-- Replace with your actual number -->
+- 🤝 Contributed to: <!-- Replace with your actual number --> repositories
+- 👥 Followers: <!-- Replace with your actual number -->
+- 👀 Watching: <!-- Replace with your actual number --> repositories
+- ⭐ Starred: <!-- Replace with your actual number --> repositories
+
+#### 📊 Repository Details
+- 💾 Total Space Used: <!-- Replace with your actual number --> GB
+- 📈 Lines of Code: <!-- Replace with your actual numbers --> added, <!-- Replace with your actual numbers --> removed
+- 📦 Releases: <!-- Replace with your actual number -->
+- 📝 Preferred License: MIT
+
+#### 🎯 Overall Issues and Pull Requests Status
+##### On My Repositories
+- Issues: <!-- Replace with your actual numbers --> open, <!-- Replace with your actual numbers --> closed
+- Pull Requests: <!-- Replace with your actual numbers --> open, <!-- Replace with your actual numbers --> merged, <!-- Replace with your actual numbers --> closed
+
+</details>
+
 ### 🛠️ Contributions
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
 - Maintainer at [coredao-org/project-name](https://github.com/coredao-org)
-- Active contributor to [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
  
 ---
 
