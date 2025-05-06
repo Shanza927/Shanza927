@@ -1,39 +1,88 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Senior Frontend Engineer | JavaScript • React • TypeScript • UI/UX Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shanza Amin</h1>
+<h3 align="center">🚀 A Passionate Senior Front-End Engineer | React & JavaScript Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+beautiful+and+scalable+UIs;React+%7C+TypeScript+%7C+JavaScript+Expert;Pixel-perfect+designs+with+AntD%2C+Tailwind%2C+Bootstrap" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer;React+%7C+JavaScript+%7C+TypeScript+Expert;Crafting+Beautiful+%26+Performant+UIs" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🔧 My Core Expertise Includes:
 
-- 🌱 Currently working as a **Senior Frontend Developer**.
-- 🧠 Passionate about building accessible, user-centric applications.
-- 💼 Experienced in React.js, TypeScript, Redux, GraphQL, SCSS, and modern frontend stacks.
-- 🎯 Focused on performance, responsiveness, and developer-friendly architecture.
-- 🧪 Advocate for **unit testing**, **pixel-perfect designs**, and **CI/CD workflows**.
+#### 🧠 Front-End Development
+- ✅ React.js, Next.js, JavaScript, TypeScript
+
+#### 🎨 Responsive UI & Styling
+- ✅ Tailwind CSS, Bootstrap, Material UI, Styled Components
+
+#### 🧰 State Management
+- ✅ Redux, Context API, React State, Jotai
+
+#### 🤖 AI Integration
+- ✅ OpenAI APIs, LLMs, Chatbots, Streaming AI messages
+
+#### 🔌 API & Real-Time Data
+- ✅ REST APIs, WebSockets, Firebase, Server-Sent Events
+
+#### ⚙️ Build Tools & Configuration
+- ✅ Vite, Webpack, Babel, CRA
+
+#### 🧪 Testing & Debugging
+- ✅ Jest, Cypress, React Testing Library
+
+#### 🎨 UI Conversion & Pixel-Perfect Layouts
+- ✅ Figma / PSD / Sketch to clean HTML & CSS
+
+#### 🧬 Version Control & Workflow
+- ✅ Git, GitHub, Bitbucket
+
+#### 📋 Project & Task Management
+- ✅ Jira, Trello, Asana
 
 ---
 
-### 🔗 Connect with me
-
+### 🛠️ Tools & Technologies
 <p align="left">
-  <a href="https://dev.to/yourusername" target="_blank"><img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,bootstrap,materialui,html,css,vite,jest,github,figma,firebase,git,babel,webpack" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 📊 GitHub Stats (Dark Theme + 3D Graph)
 
-```text
-JavaScript    ████████████████████ 85%
-TypeScript    ████████████████░░░ 75%
-React         ████████████████░░░ 75%
-HTML/CSS      ███████████████░░░░ 70%
-SCSS          ██████████░░░░░░░░░ 55%
-Git/CI/CD     █████████░░░░░░░░░░ 50%
-Node.js       ███████░░░░░░░░░░░░ 40%
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+### ✨ Fun Facts
+- 🔭 I’m currently working on building high-performance UIs and reusable components
+- 🌱 I’m learning backend development (Node.js & Express)
+- 🧠 Always exploring the intersection of AI & front-end
+- 💬 Ask me about anything frontend — I love to share knowledge!
+- 👩‍💻 Passionate about developer experience, accessibility, and team collaboration
+- 🎯 Goal-oriented and always striving for pixel-perfect implementations
+
+---
+
+### 🤝 Let’s Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+</p>
+
+---
+
