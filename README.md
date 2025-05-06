@@ -61,6 +61,13 @@
 
 ---
 
+### 🛠️ Contributions
+- Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
+- Maintainer at [coredao-org/project-name](https://github.com/coredao-org)
+- Active contributor to [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+ 
+---
+
 ### ✨ Fun Facts
 - 🔭 I’m currently working on building high-performance UIs and reusable components
 - 🌱 I’m learning backend development (Node.js & Express)
