@@ -60,26 +60,37 @@
 </p>
 
 ---
-### 📊 GitHub Metrics
-
-#### 🎯 Activity & Community Stats
-![](https://komarev.com/ghpvc/?username=your-username&color=blue)
+### 📈 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanza927&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shanza's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanza927&theme=tokyonight&hide_border=true" alt="Shanza's Streak" />
 </div>
 
-#### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&area=true&hide_border=true)
+#### 📊 Contribution Metrics
+![Metrics](https://metrics.lecoq.io/Shanza927?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKarachi)
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+#### 🏆 GitHub Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanza927&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Shanza's Trophies" />
+</div>
+
+<details>
+<summary>📊 More Detailed Stats</summary>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanza927&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shanza927&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shanza927&theme=tokyonight" />
+</div>
+
+</details>
+
+![](https://komarev.com/ghpvc/?username=Shanza927&color=blue&style=for-the-badge)
+
 
 ### 🛠️ Contributions
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
