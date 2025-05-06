@@ -60,38 +60,26 @@
 </p>
 
 ---
-
 ### 📊 GitHub Metrics
 
-<details>
-<summary>Click to expand</summary>
+#### 🎯 Activity & Community Stats
+![](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-#### 🎯 Activity
-- 🔄 Commits: <!-- Replace with your actual number -->
-- 🔍 Pull requests reviewed: <!-- Replace with your actual number -->
-- 📝 Pull requests opened: <!-- Replace with your actual number -->
-- ⚠️ Issues opened: <!-- Replace with your actual number -->
-- 💬 Issue comments: <!-- Replace with your actual number -->
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight"/>
+</div>
 
-#### 🌟 Community Stats
-- 📚 Repositories: <!-- Replace with your actual number -->
-- 🤝 Contributed to: <!-- Replace with your actual number --> repositories
-- 👥 Followers: <!-- Replace with your actual number -->
-- 👀 Watching: <!-- Replace with your actual number --> repositories
-- ⭐ Starred: <!-- Replace with your actual number --> repositories
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=tokyonight"/>
+</div>
 
-#### 📊 Repository Details
-- 💾 Total Space Used: <!-- Replace with your actual number --> GB
-- 📈 Lines of Code: <!-- Replace with your actual numbers --> added, <!-- Replace with your actual numbers --> removed
-- 📦 Releases: <!-- Replace with your actual number -->
-- 📝 Preferred License: MIT
+#### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&area=true&hide_border=true)
 
-#### 🎯 Overall Issues and Pull Requests Status
-##### On My Repositories
-- Issues: <!-- Replace with your actual numbers --> open, <!-- Replace with your actual numbers --> closed
-- Pull Requests: <!-- Replace with your actual numbers --> open, <!-- Replace with your actual numbers --> merged, <!-- Replace with your actual numbers --> closed
-
-</details>
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 ### 🛠️ Contributions
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
