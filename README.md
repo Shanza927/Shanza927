@@ -55,14 +55,7 @@
 #### Shanza Amin's GitHub Stats
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shanza927&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Shanza927)
 
-#### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanza927&theme=tokyonight&hide_border=true)](https://github.com/Shanza927)
 
-#### 📈 Contribution Graph
-[![Shanza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanza927&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Shanza927)
-
-#### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shanza927&theme=tokyonight&no-frame=true&row=1&margin-w=15)](https://github.com/Shanza927)
 
 <summary>📊 Detailed GitHub Metrics</summary>
 
@@ -76,6 +69,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shanza927&color=blue&style=for-the-badge)
 
+#### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shanza927&theme=tokyonight&no-frame=true&row=1&margin-w=15)](https://github.com/Shanza927)
+
 </div>
 
 ---
@@ -83,6 +79,13 @@
 ### 🛠️ Contributions
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
 - Maintainer at [coredao-org/project-name](https://github.com/coredao-org)
+
+#### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanza927&theme=tokyonight&hide_border=true)](https://github.com/Shanza927)
+
+  ## 📈 Contribution Graph
+[![Shanza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanza927&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Shanza927)
+
  
 ---
 
