@@ -48,18 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme + 3D Graph)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
@@ -89,6 +77,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shanza927&color=blue&style=for-the-badge)
 
 </div>
+
+---
 
 ### 🛠️ Contributions
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
