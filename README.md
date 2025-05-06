@@ -1,83 +1,39 @@
-<h1 align="center">Shanza Amin here 👋 </h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Senior Frontend Engineer | JavaScript • React • TypeScript • UI/UX Enthusiast</h3>
 
 <p align="center">
-  <strong>Senior Frontend Engineer</strong> | React, Next.js, TypeScript, TailwindCSS, AI Apps
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+beautiful+and+scalable+UIs;React+%7C+TypeScript+%7C+JavaScript+Expert;Pixel-perfect+designs+with+AntD%2C+Tailwind%2C+Bootstrap" />
 </p>
 
-<!-- 
-<p align="center">
-  <a href="https://github.com/shanzaamin"><img src="https://img.shields.io/github/followers/shanzaamin?label=Follow&style=social"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=flat-square"></a>
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 Currently working as a **Senior Frontend Developer**.
+- 🧠 Passionate about building accessible, user-centric applications.
+- 💼 Experienced in React.js, TypeScript, Redux, GraphQL, SCSS, and modern frontend stacks.
+- 🎯 Focused on performance, responsiveness, and developer-friendly architecture.
+- 🧪 Advocate for **unit testing**, **pixel-perfect designs**, and **CI/CD workflows**.
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://dev.to/yourusername" target="_blank"><img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
--->
 
 ---
 
-## 👩‍💻 About Me
+### 🛠️ Languages and Tools
 
-I'm **Shanza**, a passionate Frontend Developer with **7+ years** of experience building fast, responsive, and user-focused web applications. I specialize in turning creative ideas into functional and high-performing digital experiences.
-
-I've worked with startups, scale-ups, and enterprises to deliver:
-- 🧠 **AI-integrated apps** using LLMs, chatbots, and OpenAI APIs
-- 🛍️ **E-commerce sites** with optimized UX and SEO
-- 📱 **Responsive, mobile-first interfaces** that scale beautifully across devices
-
-I approach every project with clarity, care, and collaboration — always striving to deliver intuitive UI and maintainable code.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🚀 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-
-### 🎨 UI & Styling
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat-square&logo=styled-components)
-
-### 📦 State Management
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Context API](https://img.shields.io/badge/-ContextAPI-61DAFB?style=flat-square&logo=react)
-![Jotai](https://img.shields.io/badge/-Jotai-2E7D32?style=flat-square&logo=data:image/svg+xml;base64,...)
-
-### 🤖 AI & Integrations
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
-![LLMs](https://img.shields.io/badge/-LLMs-blueviolet?style=flat-square)
-![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-
-### 🛠️ Tools & Testing
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
-
-### 🧩 Design & Versioning
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
-
----
-
-## 💡 Why Work With Me?
-
-✨ **Continuous Learner** – I stay ahead of modern frontend and AI tools  
-🎯 **Client-Focused** – Communication and quality delivery are my top priorities  
-⚡ **Performance Matters** – I optimize for speed and responsiveness  
-🤝 **Collaborative Partner** – I work closely with teams and clients, every step of the way
-
----
-
-## 📫 Let's Connect
-
-I’d love to hear about your project ideas or team needs!  
-Let’s bring your vision to life, together.  
-📧 **Reach out to start a conversation — I'm just a message away!** 😊
-
----
+```text
+JavaScript    ████████████████████ 85%
+TypeScript    ████████████████░░░ 75%
+React         ████████████████░░░ 75%
+HTML/CSS      ███████████████░░░░ 70%
+SCSS          ██████████░░░░░░░░░ 55%
+Git/CI/CD     █████████░░░░░░░░░░ 50%
+Node.js       ███████░░░░░░░░░░░░ 40%
