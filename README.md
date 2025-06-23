@@ -101,15 +101,15 @@
 
 ### 🤝 Let’s Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/shanzaamin3264/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:shanzaaminofficial@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <!--<a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
+  </a>-->
 </p>
 
 ---
