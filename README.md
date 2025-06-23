@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Senior Front-End Engineer | React & JavaScript Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer;React+%7C+JavaScript+%7C+TypeScript+Expert;Crafting+Beautiful+%26+Performant+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;React+%7C+JavaScript+%7C+TypeScript+Expert;Crafting+Beautiful+%26+Performant+UIs" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,9 +52,9 @@
 
 <div align="center">
   
-#### Shanza Amin's GitHub Stats
+<!--#### Shanza Amin's GitHub Stats
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shanza927&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Shanza927)
-
+-->
 
 
 <summary>📊 Detailed GitHub Metrics</summary>
@@ -67,7 +67,7 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shanza927&color=blue&style=for-the-badge)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Shanza927&color=blue&style=for-the-badge)-->
 
 #### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shanza927&theme=tokyonight&no-frame=true&row=1&margin-w=15)](https://github.com/Shanza927)
@@ -80,15 +80,15 @@
 - Contributed to [campus-experts/preview-template](https://github.com/campus-experts/preview-template)
 - Maintainer at [coredao-org/project-name](https://github.com/coredao-org)
 
-#### 🔥 Contribution Streak
+<!-- #### 🔥 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanza927&theme=tokyonight&hide_border=true)](https://github.com/Shanza927)
 
   ## 📈 Contribution Graph
 [![Shanza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanza927&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Shanza927)
 
- 
 ---
-
+ -->
+ 
 ### ✨ Fun Facts
 - 🔭 I’m currently working on building high-performance UIs and reusable components
 - 🌱 I’m learning backend development (Node.js & Express)
