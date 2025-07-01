@@ -7,37 +7,11 @@
 
 ---
 
-### 🔧 My Core Expertise Includes:
-
-#### 🧠 Front-End Development
-- ✅ React.js, Next.js, JavaScript, TypeScript
-
-#### 🎨 Responsive UI & Styling
-- ✅ Tailwind CSS, Bootstrap, Material UI, Styled Components
-
-#### 🧰 State Management
-- ✅ Redux, Context API, React State, Jotai
-
-#### 🤖 AI Integration
-- ✅ OpenAI APIs, LLMs, Chatbots, Streaming AI messages
-
-#### 🔌 API & Real-Time Data
-- ✅ REST APIs, WebSockets, Firebase, Server-Sent Events
-
-#### ⚙️ Build Tools & Configuration
-- ✅ Vite, Webpack, Babel, CRA
-
-#### 🧪 Testing & Debugging
-- ✅ Jest, Cypress, React Testing Library
-
-#### 🎨 UI Conversion & Pixel-Perfect Layouts
-- ✅ Figma / PSD / Sketch to clean HTML & CSS
-
-#### 🧬 Version Control & Workflow
-- ✅ Git, GitHub, Bitbucket
-
-#### 📋 Project & Task Management
-- ✅ Jira, Trello, Asana
+🧠 Currently building AI-powered, real-time web applications  
+🌱 Exploring backend development with Node.js & Express  
+💬 Ask me about React, Next.js, TypeScript, OpenAI APIs, or LLM integration  
+🎨 Passionate about clean UI, accessibility, and pixel-perfect design  
+⚡ Fun fact: I love turning complex ideas into simple, elegant interfaces
 
 ---
 
